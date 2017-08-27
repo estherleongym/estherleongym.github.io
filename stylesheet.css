@@ -1,0 +1,110 @@
+/* h1 {
+
+	color: grey;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	text-align: center;
+
+}
+*/
+/*
+p {
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-align: center;
+
+} 
+
+*/
+
+.picture {
+
+/*font-family: verdana;
+	font-size: 50px;*/
+	margin-left: 50px;
+	float: left;
+    width: 600px;
+    height: 800px;
+	/*background-color: #fce7cc;*/
+
+}
+
+.content {
+
+	position: relative;
+	float: left;
+    width: 700px;
+    height: 800px;
+/*	background-color:#ccfce9;*/
+
+}
+
+.picture p{
+
+	font-family: "museo-sans",sans-serif;
+	color: grey;
+	line-height: 8px;
+	margin-right: 5px;
+	text-align: right;
+
+	}
+
+.picture a{
+	
+	font-family: "museo-sans",sans-serif;
+	margin-right: 5px;
+	display: block;
+	text-align: right;
+
+	}
+
+.picture img{ 
+	padding-top: 10px;
+    width: 100%;
+    height: auto;
+   	
+}
+
+.tiles_1 { 
+	margin-left: 8px;
+	padding-top: 8px;
+	padding-right: 8px;
+	text-indent: 8px; 
+    width: 100%;
+    height: auto;
+   	
+}
+
+.tiles_2 { 
+
+	margin-left: 8px;
+	padding-right: 8px;
+	text-indent: 8px; 
+    width: 100%;
+    height: auto;
+   	
+}
+
+.tiles_3 { 
+
+	margin-left: 8px;
+	padding-right: 8px;
+	text-indent: 8px; 
+    width: 100%;
+    height: auto;
+   	
+}
+
+#name {
+
+	font-family: "museo-sans",sans-serif;
+	color: #0bc490;
+	font-size: 20px;
+	margin-right: 5px;
+	text-align: right;
+	line-height: 8px;
+
+}
+
+
